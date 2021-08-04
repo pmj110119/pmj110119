@@ -1,11 +1,10 @@
 ### Hi there 👋
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=pmj110119&show_icons=true&theme=radical)
 
 <!--
 **pmj110119/pmj110119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://visitor-badge.glitch.me/badge?page_id=pmj110119.readme)
-![](http://antzuhl.cn:4000/get/@pmj110119.readme)
-![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
