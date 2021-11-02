@@ -4,7 +4,7 @@
 
 🔭 Keep learning ... 
 
-📫 How to reach me:   微信号 pmj110119
+📫 How to reach me:  Email pmj@stu.pku.edu.cn  微信 pmj110119  
 
 <!--
 **pmj110119/pmj110119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
