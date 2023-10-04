@@ -2,7 +2,7 @@
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=pmj110119&show_icons=true&theme=radical)
 
 
-🔭 Keep learning ... 
+🔭 I am finding a job in the industry in 2024, including autonomous driving, 3D reconstruction and other related computer vision topics. If you have suitable position, please feel free to contact me!
 
 📫 How to reach me:  Email pmj@stu.pku.edu.cn  微信 pmj110119  
 
